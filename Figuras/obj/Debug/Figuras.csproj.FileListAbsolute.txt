@@ -1,0 +1,38 @@
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.fmrRectangulo.resources
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Alexander\Desktop\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.FrmHome.resources
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.FrmCirculo.resources
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.FrmCuadrado.resources
+C:\Users\Alexander\Desktop\Figuras\Figuras\obj\Debug\Figuras.FrmLinea.resources
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.FrmHome.resources
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.FrmLinea.resources
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Lineas\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Lineas\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Alexander\Desktop\Lineas\Figuras\bin\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Lineas\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\bin\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.FrmHome.resources
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.FrmLinea.resources
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.FrmRectasCirculos.resources
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.exe
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Alexander\Desktop\Universidad\Computación Grafica\Unidad1\Lineas\Figuras\obj\Debug\Figuras.exe.config
